@@ -39,11 +39,6 @@ Fahrenheit: 212.00 F
 Kelvin: 373.15 K
 ```
 
-## Screenshots
-![Main Interface] 
-
-![Conversion Result]
-
 
 ## Technologies Used
 - Java
